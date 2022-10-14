@@ -46,4 +46,9 @@ def return_dictionary():
     return title_link_dict
 
 
-    
+# dict = return_dictionary()
+# # print(dict)
+# for element in dict:
+#     print(element)
+#     print("url: ", dict[element])
+#     print('/n New line')
